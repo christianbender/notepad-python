@@ -14,7 +14,7 @@ The app is writen in **python 2** and uses [Tkinter](https://docs.python.org/2/l
 You start the app with ```python notepad.py``` in the console or under Windows you double-click on ```notepad.py``` .
 You can also use the executables in the **bin** directory.  
 
-Important: You needed the file ```notepad_support.py``` !  
+**Important:** You needed the file ```notepad_support.py``` !  
 
 ### Usage
 
