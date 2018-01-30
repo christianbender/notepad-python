@@ -1,6 +1,6 @@
 # Simple note managment
 
-This app is a simple note managment (notepad). You can write notes and save it with a title. In addition you can pull previous notes back.  
+This app is a simple note managment (notepad). You can write notes and save it with a title. In addition you can pull previous notes back.
 The app is writen in **python 2** and uses [Tkinter](https://docs.python.org/2/library/tkinter.html) as gui-librarie. Furthermore the UI was created with the gui-builder [PAGE](http://page.sourceforge.net/). The app uses the [Sqlite](https://www.sqlite.org/) database for managing the notes. 
 
 ### Dependencies
